@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.89fbe7a5.chunk.css",
-    "main.js": "/static/js/main.3d2c06f4.chunk.js",
-    "main.js.map": "/static/js/main.3d2c06f4.chunk.js.map",
+    "main.css": "/static/css/main.2b6ece36.chunk.css",
+    "main.js": "/static/js/main.a55f5cf6.chunk.js",
+    "main.js.map": "/static/js/main.a55f5cf6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b988ef37.js",
     "runtime-main.js.map": "/static/js/runtime-main.b988ef37.js.map",
     "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.b95fcb62.chunk.js": "/static/js/2.b95fcb62.chunk.js",
-    "static/js/2.b95fcb62.chunk.js.map": "/static/js/2.b95fcb62.chunk.js.map",
+    "static/js/2.4347cffe.chunk.js": "/static/js/2.4347cffe.chunk.js",
+    "static/js/2.4347cffe.chunk.js.map": "/static/js/2.4347cffe.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.89fbe7a5.chunk.css.map": "/static/css/main.89fbe7a5.chunk.css.map",
-    "static/js/2.b95fcb62.chunk.js.LICENSE.txt": "/static/js/2.b95fcb62.chunk.js.LICENSE.txt",
+    "static/css/main.2b6ece36.chunk.css.map": "/static/css/main.2b6ece36.chunk.css.map",
+    "static/js/2.4347cffe.chunk.js.LICENSE.txt": "/static/js/2.4347cffe.chunk.js.LICENSE.txt",
     "static/media/aeross-logo.35204b6c.jpg": "/static/media/aeross-logo.35204b6c.jpg",
     "static/media/build-logo.a216b7d8.jpg": "/static/media/build-logo.a216b7d8.jpg",
     "static/media/index.css": "/static/media/cocoa-beach-me.ee59b6f8.jpg",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.b988ef37.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.b95fcb62.chunk.js",
-    "static/css/main.89fbe7a5.chunk.css",
-    "static/js/main.3d2c06f4.chunk.js"
+    "static/js/2.4347cffe.chunk.js",
+    "static/css/main.2b6ece36.chunk.css",
+    "static/js/main.a55f5cf6.chunk.js"
   ]
 }
